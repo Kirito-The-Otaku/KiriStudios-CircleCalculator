@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CircleCalculator">
+    <output-path>$PROJECT_DIR$/out/artifacts/CircleCalculator</output-path>
+    <root id="archive" name="CircleCalculator.jar">
+      <element id="module-output" name="CircleCalculator" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -14,20 +14,20 @@ One to two paragraph statement about your product and what it does.
 OS X & Linux:
 
 ```sh
-java -jar calculator.jar
+java -jar CircleCalculator.jar
 ```
 
 Windows:
 
 ```sh
-java -jar calculator.jar
+java -jar CircleCalculator.jar
 or open start.bat
 ```
 
 ## Usage example
 
 Cheating in School lol
-idk[Wiki][wiki].
+idk [Wiki][wiki].
 
 ## Release History
 
