@@ -3,7 +3,7 @@
 
 [![Java Version][java-image]][java-url]
 [![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
+[![Downloads Stats][npm-downloads]][java-url]
 
 One to two paragraph statement about your product and what it does.
 
