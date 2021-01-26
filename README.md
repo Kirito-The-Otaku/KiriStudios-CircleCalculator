@@ -35,6 +35,8 @@ idk [Wiki][wiki].
 
 ## Release History
 
+* 0.1.1
+    * minor code improvements
 * 0.1.0
     * WoW
     * Added: Image Generator
