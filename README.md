@@ -43,7 +43,7 @@ Discord – [Kirito The Otaku#4496](https://twitter.com/dbader_org)
 
 Distributed under the GNU General Public License v3.0. See ``LICENSE`` for more information.
 
-[https://github.com/Kirito-The-Otaku](https://github.com/dbader/)
+[Other Projects](https://github.com/Kirito-The-Otaku/)
 
 <!-- Markdown link & img dfn's -->
 [java-image]: https://img.shields.io/badge/JDK-v15.0.2-important
