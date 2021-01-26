@@ -5,9 +5,13 @@
 [![Last Comit][comit-image]][comit-url]
 [![Downloads Stats][java-downloads]][java-url]
 
-One to two paragraph statement about your product and what it does.
+Calculate Scope and Area using only the radius or diameter
 
-![](https://raw.githubusercontent.com/Kirito-The-Otaku/KiriStudios-CircleCalculator/main/kreis.PNG)
+![](https://raw.githubusercontent.com/Kirito-The-Otaku/KiriStudios-CircleCalculator/main/Images/img.png)
+
+##Generated Image
+
+![](https://raw.githubusercontent.com/Kirito-The-Otaku/KiriStudios-CircleCalculator/main/Images/Circle.png)
 
 ## Installation
 
