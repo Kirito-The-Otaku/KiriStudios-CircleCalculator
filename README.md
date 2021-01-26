@@ -45,7 +45,7 @@ idk [Wiki][wiki].
 
 ## Meta
 
-Discord – [Kirito The Otaku#4496](https://twitter.com/dbader_org)
+Discord – [Kirito The Otaku#4496](https://discord.gg/TC8my4RGpy)
 
 Distributed under the GNU General Public License v3.0. See ``LICENSE`` for more information.
 
