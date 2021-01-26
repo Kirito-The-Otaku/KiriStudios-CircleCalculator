@@ -27,7 +27,7 @@ or open start.bat
 ## Usage example
 
 Cheating in School lol
-idk[Wiki][wiki]._
+idk[Wiki][wiki].
 
 ## Release History
 
