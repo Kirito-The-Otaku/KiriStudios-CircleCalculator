@@ -41,7 +41,7 @@ idk[Wiki][wiki].
 
 Discord – [Kirito The Otaku#4496](https://twitter.com/dbader_org)
 
-Distributed under the XYZ license. See ``LICENSE`` for more information.
+Distributed under the GNU General Public License v3.0. See ``LICENSE`` for more information.
 
 [https://github.com/Kirito-The-Otaku](https://github.com/dbader/)
 
