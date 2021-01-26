@@ -2,7 +2,7 @@
 > a Calculator that Calculates the scope and area of a Circle
 
 [![Java Version][java-image]][java-url]
-[![Build Status][travis-image]][travis-url]
+[![Last Comit][comit-image]][comit-url]
 [![Downloads Stats][java-downloads]][java-url]
 
 One to two paragraph statement about your product and what it does.
@@ -49,6 +49,6 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 [java-image]: https://img.shields.io/badge/JDK-v15.0.2-important
 [java-url]: https://imlazy.com/
 [java-downloads]: https://img.shields.io/github/downloads/Kirito-The-Otaku/KiriStudios-CircleCalculator/total
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
+[comit-image]: https://img.shields.io/github/last-commit/Kirito-The-Otaku/KiriStudios-CircleCalculator/main
+[comit-url]: https://travis-ci.org/dbader/node-datadog-metrics
 [wiki]: https://github.com/Kirito-The-Otaku/
