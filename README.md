@@ -3,7 +3,7 @@
 
 [![Java Version][java-image]][java-url]
 [![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][java-url]
+[![Downloads Stats][java-downloads]][java-url]
 
 One to two paragraph statement about your product and what it does.
 
@@ -48,7 +48,7 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 <!-- Markdown link & img dfn's -->
 [java-image]: https://img.shields.io/badge/JDK-v15.0.2-important
 [java-url]: https://imlazy.com/
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
+[java-downloads]: https://img.shields.io/github/downloads/Kirito-The-Otaku/KiriStudios-CircleCalculator/total
 [travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
 [wiki]: https://github.com/Kirito-The-Otaku/
